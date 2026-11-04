@@ -23,22 +23,6 @@
 - 📍 Based in Munich, Germany
 - 💬 Ask me about Flutter, EV charging and V2G
 
-## Tech stack
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-Flutter libraries and tools I use daily: MobX, GetIt, Dio, Hive, freezed, Firebase Messaging, Datadog RUM, Unleash feature flags, Melos.
-
-**Backend & Cloud**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tooling**
-
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white) ![fastlane](https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ## Apps I've built
 
 Side projects, built with Kotlin Multiplatform and shipped to the App Store.
@@ -69,8 +53,7 @@ More experiments and older projects are in my [repositories](https://github.com/
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinhuszti&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="Martin Huszti's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinhuszti&layout=compact&hide_border=true&theme=transparent" alt="Martin Huszti's most used languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=martinhuszti&theme=transparent&hide_border=true" alt="Martin Huszti's GitHub contribution streak" />
 </p>
 
 ---
